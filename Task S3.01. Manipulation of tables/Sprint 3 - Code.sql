@@ -1,4 +1,4 @@
-# Sprint 2
+# Sprint 3
 ########## Nivell 1
 ################### Exercici 1
 # La teva tasca és dissenyar i crear una taula anomenada "credit_card" que emmagatzemi detalls crucials sobre les 
