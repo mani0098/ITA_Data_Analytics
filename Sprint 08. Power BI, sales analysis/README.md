@@ -31,6 +31,6 @@ The exercises are divided into three progressive levels:
 
 **Concepts:** Exploratory Data Analysis · DAX · Interactive Dashboards · Time-Series Analysis · Trend & Seasonality Detection · Data Storytelling · Business Intelligence
 
-## 📂 Project Files
+## 📂 Project File
 
 - [Power BI Dashboard](Sprint%208.pbix) — Interactive Power BI report containing sales analysis, visualizations, and business insights.
