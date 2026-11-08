@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This sprint introduces **Microsoft Power BI** as a business intelligence tool, focusing on data transformation, exploratory analysis, and the development of **Key Performance Indicators (KPIs)** using DAX.
+This sprint introduces **Microsoft Power BI** as a business intelligence tool, focusing on data transformation, exploratory analysis, and developing **Key Performance Indicators (KPIs)** using DAX.
 
 The practical assignment involves analyzing an **online sales and transaction database**, creating interactive reports to monitor business performance, identify trends, and support data-driven decision-making.
 
@@ -31,6 +31,6 @@ The exercises are divided into three progressive levels:
 
 **Concepts:** Data Transformation · Data Modeling · DAX · KPI Development · Descriptive Statistics · Sales Analytics · Customer Segmentation · Interactive Dashboards
 
-## 📂 Project Files
+## 📂 Project File
 
 - [Power BI Dashboard](Sprint%207.pbix) — Interactive Power BI report containing data models, DAX measures, KPIs, and analytical visualizations.
