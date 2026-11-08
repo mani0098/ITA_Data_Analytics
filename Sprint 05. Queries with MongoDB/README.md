@@ -31,6 +31,6 @@ The exercises are divided into three progressive levels:
 
 **Concepts:** NoSQL Databases · Document-Oriented Data · JSON · CRUD Operations · Query Operators · Data Filtering · Aggregation · Geospatial Visualization
 
-## 📂 Project Files
+## 📂 Project File
 
 - [PDF Report](Sprint%205%20-%20Report.pdf) — Documentation of MongoDB queries, screenshots, and results.
